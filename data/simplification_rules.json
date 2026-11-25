@@ -1,0 +1,18 @@
+[
+  {
+    "rule_id": "SI_MATNR_01",
+    "object_type": "MATNR",
+    "title": "Material Number Field Length Extension to 40 Characters",
+    "sap_note": "2211955",
+    "disposition": "ADAPT",
+    "notes": "Extend MATNR fields and custom structures/interfaces from 18 to 40 chars."
+  },
+  {
+    "rule_id": "SI_SD_FK_02",
+    "object_type": "VBRK_VBRP",
+    "title": "Billing Output Management & Data Model Simplification",
+    "sap_note": "2227730",
+    "disposition": "REVIEW",
+    "notes": "Check custom billing print/output logic and tables."
+  }
+]
